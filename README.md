@@ -1,6 +1,6 @@
 # Python-PyBank
 In this task, I have created a Python script for analyzing the financial records of a company. 
-Data is pulled from a csv file budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. 
+Data is pulled from a csv file budget_data.csv and analyzed. The dataset is composed of two columns: Date and Profit/Losses. 
 
 # Steps
 <h2> Created a Python script that analyzes the records to calculate each of the following: </h2>
